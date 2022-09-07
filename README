@@ -1,0 +1,2 @@
+.\gradlew.bat build
+docker-compose up -d --build
